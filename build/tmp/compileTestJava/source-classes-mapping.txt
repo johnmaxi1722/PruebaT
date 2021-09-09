@@ -1,0 +1,8 @@
+runners/CarritoRunner.java
+ runners.CarritoRunner
+runners/RegistroRunner.java
+ runners.RegistroRunner
+stepdefinitions/AddCarritoStepDefinitions.java
+ stepdefinitions.AddCarritoStepDefinitions
+stepdefinitions/RegistroStepDefinitions.java
+ stepdefinitions.RegistroStepDefinitions

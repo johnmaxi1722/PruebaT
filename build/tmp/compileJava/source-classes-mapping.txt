@@ -1,0 +1,16 @@
+tasks/FormularioRegistro.java
+ tasks.FormularioRegistro
+userinterfaces/HomePage.java
+ userinterfaces.HomePage
+tasks/Registrarse.java
+ tasks.Registrarse
+userinterfaces/Registro.java
+ userinterfaces.Registro
+interactions/Write.java
+ interactions.Write
+interactions/WaitElement.java
+ interactions.WaitElement
+models/DataRegistro.java
+ models.DataRegistro
+userinterfaces/Carrito.java
+ userinterfaces.Carrito
